@@ -1,4 +1,4 @@
-# Machine-Learning
+# Data Analysis Projects
 Display my academic ML related projects
 
 
